@@ -1,2 +1,4 @@
 # hello-world
-FirtsRep
+Hi!
+
+I'm noobs
